@@ -21,11 +21,12 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url("/static/img/prana4.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #ffffff;
 }
 
 .menu {
@@ -33,7 +34,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #5bc3ff;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,12 +50,12 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: #b0aeb4;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #ffffff;
 }
 
 .content {

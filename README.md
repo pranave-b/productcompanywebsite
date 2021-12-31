@@ -35,8 +35,16 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+### Home Page:
+### Product Page:
+### People page:
+### ContactUs page:
 
 ## OUTPUT:
+### Home Page:
+### Product Page:
+### People page:
+### ContactUs page:
 
 ### Home Page:
 
